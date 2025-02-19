@@ -1,5 +1,5 @@
 # PT2
-This is the second open source project free to use a simple app script.
+This is the second open source project free to use a simple app script that allows you to draw.
 
 # License
 MIT License
